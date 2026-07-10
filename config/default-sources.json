@@ -29,8 +29,7 @@
       "name": "AI & I by Every",
       "rssUrl": "https://anchor.fm/s/ed1f5584/podcast/rss",
       "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
-    }
-  ],
+    },
     {
       "name": "Lenny's Podcast",
       "rssUrl": "https://pod2txt.vercel.app/api/feed?url=https://api.substack.com/feed/podcast/10845.rss",
@@ -40,7 +39,8 @@
       "name": "All-In Podcast",
       "rssUrl": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "url": "https://www.youtube.com/@allin"
-    },  
+    }
+  ],  
   "blogs": [
     {
       "name": "Anthropic Engineering",
